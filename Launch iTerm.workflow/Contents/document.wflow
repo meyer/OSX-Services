@@ -52,7 +52,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>appPath</key>
-					<string>/opt/homebrew-cask/Caskroom/iterm2-beta/20130811/iTerm.app</string>
+					<string>~/Applications/iTerm.app</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.OpenApplication</string>
